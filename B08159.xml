@@ -1,0 +1,257 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to that question, Hovv farre it is lavvfvll to flee in the time of the plagve extracted out of a sermon preached in Alderman-bury, / by Thomas Taylor..</title>
+            <author>Taylor, Thomas, 1576-1632.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1636</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 152 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08159</idno>
+            <idno type="STC">STC 23819.5</idno>
+            <idno type="STC">ESTC S123735</idno>
+            <idno type="EEBO-CITATION">72799972</idno>
+            <idno type="OCLC">ocm 72799972</idno>
+            <idno type="VID">184137</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08159)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184137)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2229:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to that question, Hovv farre it is lavvfvll to flee in the time of the plagve extracted out of a sermon preached in Alderman-bury, / by Thomas Taylor..</title>
+                  <author>Taylor, Thomas, 1576-1632.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. P. for Iohn Bartlet.,</publisher>
+                  <pubPlace>London,:</pubPlace>
+                  <date>[1636?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by STC (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Proverbs XXII, 3 --  Sermons.</term>
+               <term>Sermons --  England --  17th century.</term>
+               <term>Plague --  England --  Sermons --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184137:1"/>
+            <head>
+               <hi>AN ANSWER TO THAT Q<g ref="char:V">Ʋ</g>ESTION,</hi> HOVV FARRE IT IS LAVV FVLL TO FLEE IN THE TIME OF THE PLAGVE;</head>
+            <byline>Extracted out of a Sermon preached in <hi>Alderman-bury,</hi> by THOMAS TAYLOR.</byline>
+            <epigraph>
+               <bibl>PROVERBS XXII. III.</bibl>
+               <q>And hides himſelfe.</q>
+            </epigraph>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> MAy a man, to hide himſelfe from the Plague, for ſake his place, his calling, and remove himſelfe and his?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> M. <hi>Calvin</hi> anſwereth this queſtion in one of his Epiſtles thus: A queſtion riſeth from the ſtupiditie of men without ſenſe of humanitie, Whe<g ref="char:EOLhyphen"/>ther wee may not avoyd the Plague? They would have no man change aire, nor avoid contagious and poyſoned places, nor delight in any pleaſing pro<g ref="char:EOLhyphen"/>ſpect, &amp;c. <hi>Faceſſant paradoxa hujuſmodi, querum uſus eſt nos exuere omni ſenſu.</hi> But, this anſwer being too ſhort for ſuch as deſire to walke by rule, wee muſt conſider, firſt, the perſons; ſecondly, the reaſons; thirdly, the cautions; fourthly, the objections.</p>
+            <p>Firſt, publick perſons, whom, by vertue of their ſpeciall calling, the Church, or Common-wealth, or the Familie, cannot want, may not flee, unleſſe they by others may competently ſupply their owne abſence.</p>
+            <p>But private perſons, whoſe Calling the Publick may for a time want, may avoid the danger: for,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>1</label> Firſt, all manifeſt perils ought to be avoided, if without impietie wee can ſhun them.<note place="margin">Pſal. 91.</note>It is lawfull to avoid an arrow co<g ref="char:cmbAbbrStroke">̄</g>ming upon us; and not to avoid it if we can, makes us acceſſary to our owne death. But this is an arrow com<g ref="char:EOLhyphen"/>ming on us, and by good meanes to be avoided: it cannot be leſſe lawfull, than to avoid fire, or ſword, or poyſon.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>2</label> Secondly, God hath given us ſpecial co<g ref="char:cmbAbbrStroke">̄</g>mandement for the care &amp; preſerva<g ref="char:EOLhyphen"/>tion of our own lives, &amp; to uſe al good means of preſervation, &amp; hath ſancti<g ref="char:EOLhyphen"/>fied preſervatives &amp; phyſick to this purpoſe. He that hath charged us with the care of our brethrens lives, much more hath charged us without owne.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>3</label> Thirdly, <hi>David</hi> uſed many caves and hiding places: in a ſhort time he fled from <hi>Saul</hi> into twelve ſeverall hiding places; To King <hi>Achis,</hi> to the King of Moab, and to the King of the Philiſtims, into the cave of Adullam, the Grove of Hareth, the Deſert of Ziph, of Maon, of Engedi, of Paran, &amp;c. Yea, Chriſt and his Diſciples fled oftentimes from danger: and why not we till our houre alſo be come, that in the meane time we may be the more ſerviceable to God and his Church? Nay, God himſelfe bids <hi>Elias</hi> goe flee and hide himſelfe from perſecution by the Brook <hi>Cherith.</hi> He could haue kept him ſafe from <hi>Ahab</hi> and <hi>Iezabel</hi> without his fleeing, in the midſt of them; but he teacheth us what godly men may doe in the like caſes.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>
+               </label> But this is to avoid the ſword of man; but ſpeaketh not of the Plague, the hand and ſword of God.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> What wee may pray the removall of, we may lawfully avoid: but <hi>David</hi> prayed the removall of the plague, 2 <hi>Sam.</hi> 24.1 <hi>Kings</hi> 8. <hi>If thou ſend a Plague and peſtilence, and thy people pray in this houſe, then heare out of heaven, &amp;c.</hi>
+               <note place="margin">Num. 16.48.</note>So <hi>Aaron</hi> prayed, and ſtood between the living and dead, and the plague ceaſed.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>4</label> The fruit of faith is the uſe of ſuch meanes, as which God hath appointed for the effecting of his own decrees; &amp; the more faith, the more uſe of means: whereof this is one,<note place="margin">Acts 27.31.</note> Not to converſe with the infected, and to depart from the infected place ſo far as <hi>ſalva conſcientia &amp; charitate</hi> wee may. <hi>Paul</hi> belee<g ref="char:EOLhyphen"/>ved none ſhould periſh in the ſhip, according to the word of God, yet muſt they not be ſaved unleſſe they abide in the ſhip: for there muſt be ſhipmen to guide and governe the ſhip to land, as it came to paſſe.</p>
+            <p>Thirdly, the cautions or conditions in fleeing the Plague.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Caution </seg>1</label> Firſt, ſee no prophaneneſſe be in the flight, or impietie, as if we would or could avoid the hand of God: we muſt not intend to flee from God; for whi<g ref="char:EOLhyphen"/>ther ſhall we flee from his preſence? but firſt flee unto God. For as we muſt not neglect the means of our ſafetie: ſo we muſt not truſt in them, but in Gods bleſſing, who muſt watch and hide, or elſe all comes to nought.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Caution </seg>2</label> Before thou avoid the effect of Gods anger, ſee thou avoid the cauſe of it, and that is thine own ſin: elſe can no dens, caſtles, or caves hide thee. <hi>Iohn Baptiſt</hi> wiſheth men, by fleeing the cauſe, to flee wrath to come:<note place="margin">2 King. 14.19.</note>otherwiſe, <hi>A<g ref="char:EOLhyphen"/>maziah</hi> flees to Lachiſh; but death flees after him, and overtakes him, becauſe he fled not from ſin the cauſe of his miſery. For it is not change of place, but of minde; not of bodies, but vices, which is the true refuge and ſanctuary. In returning conſider, that faith and repentance muſt be your reſt. No, ſay they, we will flee upon horſes.<note place="margin">Eſa. 30.15.</note>Yea, but your enemies horſes ſhall be ſwifter than yours: no flight ſwift enough to ſave him that will carry his ſinnes with him. The firſt ſtep in fleeing, muſt be to flee thy ſelfe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Caution </seg>3</label> In fleeing from infection, be ſure thou beeſt as beneficiall abſent as preſent, in things ſpirituall, temporall. 1. Faile not by ſound humilitie and godly ſor<g ref="char:EOLhyphen"/>row to bewaile thy ſins, which have provoked the wrath of God, and aſwell abſent as preſent ſeek to appeaſe God, and avert his ſtroke from thy ſelfe and others. Even abſent thou muſt put thy ſelfe into their miſery, as one that hath provoked that diſpleaſure. 2. Omit no dutie of charitie and beneficence: if thy perſon be removed, leave thy purſe behinde thee, &amp; thy beſt help, as one that knoweſt thou art not looſed from the common law of neighbourhood; but art charged ſtill to ſee no needfull thing wanting to the poore and needy, whether ſick or ſound.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Caution </seg>4</label> In fleeing looke to thine affections, that no exceſſive feare of death moove thee: for thou muſt ſtill keep a deſire to be diſſolved, and ſtand as <hi>Sarah</hi> in the doore of the Tent to entertain that meſſenger, and be ready for death whenſo<g ref="char:EOLhyphen"/>ever the houre is come: nor yet incredulitie or weakneſſe of faith force thee. But let faith lead thee forth, and let it be no loſer. <hi>Noah</hi> by faith went into the Ark, and ſtaid, yea, till God led him out.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>1</label> The plague is not contagious, nor comes from man; but an immediate hand of God, and ſo is not to be avoyded.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label>
+               <list>
+                  <item>1. It follows not, becauſe it is the hand of God, that it is not contagious. Was not the leproſie a rod &amp; ſcourge of God? and yet was it not infectious?</item>
+                  <item>2. It follows not, becauſe it is the hand of God, wee muſt not uſe lawfull meanes to avoid it: for ſo is famine, ſword, fire, warre, the hand of God; and yet who can deny we may uſe lawfull means to avoid them all? Beſide, it was the law of God moſt carefully to avoid the Leproſie, and not to come neere perſons infected? and why not the plague or other contagious diſeaſes? <hi>Ba<g ref="char:EOLhyphen"/>laam's</hi> Aſſe, ſeeing the drawne ſword of the Angell, will ſhun it.</item>
+               </list>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>2</label> But none can reſiſt the providence of God. Hee hath numbred whom he will ſmite with the plague, and who ſhall not be touched: and none of them whom he hath appointed to fall, ſhall eſcape?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label>
+               <list>
+                  <item>1. The providence of God, being the firſt cauſe, takes not away the ſecond
+<pb facs="tcp:184137:1"/>cauſes, but ſtabliſheth them, becauſe he ſtabliſheth and executeth his decrees by means and ſecond cauſes: and it were a tempting of God, to refuſe the law<g ref="char:EOLhyphen"/>full and allowed meanes of preſerving life, by which God ordinarily ſaveth whom he will ſave.</item>
+                  <item>2. God indeed knows how many ſhall be ſmitten: and if we knew the ſecret will of God concerning our ſelves, then were our wils to be ſurrendred to Gods will: and an heart affected with Gods glory, will be readier for death than life, if God reveale to it, that to die is better than to live. But not know<g ref="char:EOLhyphen"/>ing this, we are not looſed from the uſe of lawfull means for the preſervati<g ref="char:EOLhyphen"/>on of our lives, till we ſee our houre to be come.</item>
+                  <item>3. God knows and hath decreed how many ſhall fall by the ſword in war, and yet who will ſay it is unlawfull to uſe weapons to defend our ſelves, and fight for our lives? So God knows how many ſhall fall by famine, in time of dearth and ſcarcity: but is it therefore unlawfull to buy food to preſerve our lives? Did not he command <hi>Iacob</hi> to goe and buy food in Egypt, whom he could have preſerved without meanes, but would not, becauſe meanes were then, though far off.</item>
+               </list>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>3</label> But the plague is good to the good, ſo not to be avoided.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> It is not ſimply good neither. It is not good in it ſelfe, nor as a cauſe; but as an occaſion of humilitie, repentance, feare of God: neither is it ſo, but by the work of the Spirit. But it will not follow, that it is not to be avoided. For our ſins are occaſionally good to humble us, and work in us feare of God, and yet are to be avoided. So all miſeries are turned to good to the good, but yet wee may lawfully avoid them.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>4</label> But we have callings in which we muſt abide, and we have promiſe of pro<g ref="char:EOLhyphen"/>tection while we are in our way, and therefore muſt not avoid them.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label>
+               <list>
+                  <item>We muſt abide in our callings, unleſſe we be neceſſarily thruſt out: but this is no willing deſertion, but a ſuſpending of the exerciſe of it for a greater and higher reaſon. For if for ſome occaſions a man may leave his calling many moneths, as for health, profit, pleaſure; much more to ſave his life.</item>
+                  <item>2. We have promiſes to be kept in our way: but promiſes make not men ſlothfull, nor fooliſhly raſh and temerarious, to thruſt themſelves into proba<g ref="char:EOLhyphen"/>ble and certain danger; for that is not our way.</item>
+               </list>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>5</label> But charity ſeeks not her own, but Gods, the Churches, and our neighbors: and by our flight or feare our brother may not periſh for whom Chriſt dyed.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label>
+               <list>
+                  <item>1. Charity ſeeks not it ſelfe wholly or onely, but yet deſtroyes not it ſelfe. Ordinarie charity, in ſaving himſelfe, ſeeketh Gods glorie, and the Churches good, and not himſelfe onely.</item>
+                  <item>2. Charity ſo reſpecteth the ſick, as the ſound be not neglected: to comfort one, we may not hazard many; nor ſo look forth, as forgetting our own home.</item>
+                  <item>3. Charity ſeeks the good of ſeverall perſons, but ſo as it prefers the ſafetie of the Vniverſall. That is inordinate charity, when other good means may be uſed for the comfort of the afflicted: a man caſts himſelf into manifeſt danger, and with himſelfe, his family, if he be private, and the Church and Common<g ref="char:EOLhyphen"/>wealth, if he be publick.</item>
+               </list>
+            </p>
+            <p>This queſtion was excellently beaten out between <hi>Zanchius</hi> and a godly pa<g ref="char:EOLhyphen"/>ſtor named <hi>Curienſis.</hi> This paſtor held it unlawfull to ſeparate from the In<g ref="char:EOLhyphen"/>fected, or to leave the places infected; and commended M. <hi>Bullinger,</hi> who be<g ref="char:EOLhyphen"/>ing ſent for by a woman infected, went to her, and brought home the infec<g ref="char:EOLhyphen"/>tion into his family, and preſently loſt his wife and two daughters. Now M. <hi>Zanchie</hi> commended the charitie of M. <hi>Bullinger,</hi> but did not altogether ap<g ref="char:EOLhyphen"/>proove his fact, becauſe the woman might have been otherwiſe comforted, than by his going to her bed ſide, and ſetteth downe ſome directions, after long debating. That good paſtor, being too ventrous, was taken with the plague; and when he was neare death, cried out, <hi>O utinam Zanchij conſilium ſecutus eſſem,</hi> Would to God I had followed M. <hi>Zanchius</hi> his counſell.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> But is every prudent man hid from the evill, as this Text ſeemeth to ſay? Come not all things alike to all men? Doth not judgement begin ſometimes at the houſe of God? and are not the godly wrapped ſometimes in the com<g ref="char:EOLhyphen"/>mon danger of ſword, fire, plague? and who more afflicted than they?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Godly men ſuffer evill with wicked men (for <hi>Abraham</hi> and <hi>Iacob</hi> are in the famine with the Canaanites. The good Iſraelites as well as the bad are under the oppreſſions of the Egyptians. <hi>Caleb</hi> and <hi>Ioſhua</hi> bare the ſinne of Iſrael for<g ref="char:EOLhyphen"/>tie yeares with the murmurers. <hi>Elias</hi> was afflicted in the hard times procured by <hi>Ahab</hi> and <hi>Ieazhel,</hi>) but are ever hid. For,
+<list>
+                  <item>1. Diſtinguiſh of puniſhments. Some are revenges; ſome, remedies, exer<g ref="char:EOLhyphen"/>ciſes of grace, vertues keepers, as <hi>Aquinas</hi> calleth them. The prudent are ever hid from the former: but it were not good to be free from the latter.</item>
+                  <item>2. Diſtinguiſh of perſons puniſhed. Some are veſſels of wrath, to whom even benefits are plagues: ſome are veſſels of mercy, to whom all evils work to good. Theſe are ever ſo far hid, as that the Lord never hides his face from them, but for a moment, but that to imbrace them with everlaſting co<g ref="char:cmbAbbrStroke">̄</g>paſſion.</item>
+                  <item>3. Diſtinguiſh the manner of hiding. The prudent cannot ſo hide himſelfe, as to be free from feeling of trouble: but he is freed ſo, as that he ſhall not fall in them; or if he fall, God puts under his hand for a ſeaſonable deliverance. But how are they that are ſlain with the ſword, or dy of the plague, delivered?</item>
+               </list>
+            </p>
+            <p>Many are the troubles of the godly, and great: but the Lord delivers them out of all. But deliverance is threefold.</p>
+            <list>
+               <item>1. Some are delivered temporally, that others may ſee and praiſe GODS goodnes, as <hi>Daniel</hi> from the den, the three children from fire, <hi>Ezechiah</hi> from the plague, that fathers might tell their children, &amp;c.</item>
+               <item>2. Some proportionally; not by pulling them out of danger, but by pul<g ref="char:EOLhyphen"/>ling out the ſting, and whatſoever is hurtfull, and arming them with ſtrength, patience, and ſufficient grace, that in darkneſſe they ſee light.</item>
+               <item>3. Some he delivereth eternally from danger, by ſuffering them to be over<g ref="char:EOLhyphen"/>come, and taken away by ſword, plague, &amp;c. and dealeth with his veſſels of honour, as we with ours: which when we would ſcoure the brighteſt, we oyle, and ſoile, and foule them as if they would never be cleane again. And as with his naturall Son: he will not remove the cup, till he have drunke the laſt drop. Yet he leaves them not comfortleſſe, but gives them by death freedome and victory over death and deadly things; that when they are ſlam, they are not o<g ref="char:EOLhyphen"/>vercome, but more than Conquerors. And one of theſe wayes the Lord ever hides his Children.</item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON</hi> printed by <hi>T. P.</hi> for <hi>Iohn Bartlet.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
